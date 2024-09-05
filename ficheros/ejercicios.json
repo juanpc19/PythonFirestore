@@ -1,0 +1,272 @@
+[
+    {
+        "repeticiones": 0,
+        "anotaciones": "",
+        "sets": 0,
+        "urlVideoEjemplo": "",
+        "id": 0,
+        "peso": 0,
+        "nombre": "-Selecciona un ejercicio-",
+        "imagen": ""
+    },
+    {
+        "repeticiones": 12,
+        "anotaciones": "Compuesto, trabaja pectoral, triceps y parte delantera del hombro, mayor enfasis en pecho",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/iq31x3df2wlla5fsk2heh/Wide-Grip-Bench-Press.mp4?rlkey=ljjfjtlctvtuo4gpbc8etwq44&raw=1",
+        "id": 1,
+        "peso": 50,
+        "nombre": "Press banca con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/wkxge5ck3fnjcjjge45he/bench-press-800.jpg?rlkey=yy17p80buvbezb686av0en9ca&raw=1"
+    },
+    {
+        "repeticiones": 12,
+        "anotaciones": "Compuesto, trabaja pectoral, triceps y parte delantera del hombro, mayor enfasis en hombros",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/my21uxjujqftpdwaxhalx/Incline-Wide-Grip-Bench-Press.mp4?rlkey=3m5e2c99im8qgidoi1nmgj1p7&raw=1",
+        "id": 2,
+        "peso": 50,
+        "nombre": "Press inclinado con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/s7hs64nj6gfumo00mbl5g/incline-bench-press-800.jpg?rlkey=ff498cvfv1pkzyfaiet0h1u5g&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Compuesto, trabaja triceps y pectorales, peso leve o corporal",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/9a156cf6ipo2l41q6gmui/Pushup.mp4?rlkey=mv56xpoid37zohykcm6ktk7jm&raw=1",
+        "id": 3,
+        "peso": 20,
+        "nombre": "Flexiones",
+        "imagen": "https://www.dropbox.com/scl/fi/1978xdw1yc00u0k0yl9jt/push-ups-800.jpg?rlkey=h65yym4atoe3hpwdli0uicxru&raw=1"
+    },
+    {
+        "repeticiones": 12,
+        "anotaciones": "Compuesto, trabaja laterales, romboides, erectores y biceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/6jchcwj8zops5up2akkr3/Barbell-Bent-Over-Row.mp4?rlkey=wx6r5vml9efq7ru2jf0zr5lpt&raw=1",
+        "id": 4,
+        "peso": 50,
+        "nombre": "Remo con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/pa02tp8tf0jr4237bb6rk/bent-over-row-800.jpeg?rlkey=7d5706dtygax2vzje907h0ezv&raw=1"
+    },
+    {
+        "repeticiones": 12,
+        "anotaciones": "Compuesto, trabaja laterales, romboides, erectores y biceps, peso leve o corporal",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/8wf13czfwgzz9vfdjlk3o/Parallel-Grip-Pullup.mp4?rlkey=4tvnrf12sfrhzjhi5klczjwxn&raw=1",
+        "id": 5,
+        "peso": 30,
+        "nombre": "Dominadas",
+        "imagen": "https://www.dropbox.com/scl/fi/2q6u3unnk5gy6xc42r0l2/pull-ups-800.jpeg?rlkey=analh4l68izroexrxn3ikvv9i&raw=1"
+    },
+    {
+        "repeticiones": 14,
+        "anotaciones": "Compuesto, trabaja laterales, romboides, erectores y biceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/xgm74atvj8r5p420phklk/Normal-Grip-Pulldown.mp4?rlkey=yeofuwdg46sjo7xlfbx711ipx&raw=1",
+        "id": 6,
+        "peso": 40,
+        "nombre": "Remo con poleas vertical",
+        "imagen": "https://www.dropbox.com/scl/fi/cqfib7d5br94nz28riikc/lat-pulldown-800.jpeg?rlkey=4l3pg2ahfgen88w7546s9dx5k&raw=1"
+    },
+    {
+        "repeticiones": 14,
+        "anotaciones": "Compuesto, trabaja laterales, romboides, erectores y biceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/xx23mvgoo5u48c8i15079/Seated-Cable-Row.mp4?rlkey=tp7xgkx125vtzaeblegrq9sc6&raw=1",
+        "id": 7,
+        "peso": 40,
+        "nombre": "Remo con poleas horizontal",
+        "imagen": "https://www.dropbox.com/scl/fi/hw2cucwn4213rl04mv1jy/seated-cable-row-800.jpeg?rlkey=wl82ewnyknvevo05fya6lspxg&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja trapecios",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/t28lfusezqdltfq1g85tl/Barbell-Shrug.mp4?rlkey=usgywyaew84n93rr6duyav5iz&raw=1",
+        "id": 8,
+        "peso": 40,
+        "nombre": "Encogimiento de hombros",
+        "imagen": "https://www.dropbox.com/scl/fi/jmdhc2cupfm9ra33jta8b/barbell-shrug-800.jpeg?rlkey=za5wyss02lwkolz0r6hefzohj&raw=1"
+    },
+    {
+        "repeticiones": 20,
+        "anotaciones": "Aislamiento, trabaja abdominales, oblicuos y flexores de la cadera, peso leve o corporal",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/lm6tiinplfps8hxy4org9/Reaching-Situp.mp4?rlkey=2aogemo6n30o5b9t4me8lo0gz&raw=1",
+        "id": 9,
+        "peso": 1,
+        "nombre": "Sit ups",
+        "imagen": "https://www.dropbox.com/scl/fi/8nhbk6c7qwhiuib8uids5/sit-ups-800.jpeg?rlkey=5z5v6vsvlkumidn6jo7ob0xga&raw=1"
+    },
+    {
+        "repeticiones": 20,
+        "anotaciones": "Aislamiento, trabaja abdominales y oblicuos, peso leve o corporal",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/jqdtwwoy759w615q9wrdb/Hanging-Straight-Leg-Raise.mp4?rlkey=ssmibda8kb2ql2jq17wz2jlpc&raw=1",
+        "id": 10,
+        "peso": 1,
+        "nombre": "Levantamiento de piernas",
+        "imagen": "https://www.dropbox.com/scl/fi/xabzfox7b92mhhbc9tstz/hanging-leg-raise-800.jpeg?rlkey=d3pe1cga7755ewt5lb2y6cqtu&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja los biceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/w229vwvjqll8w6zu0asi9/Barbell-Curl-Normal-Grip.mp4?rlkey=cijbxo17mxso44hnd9s9ndo7e&raw=1",
+        "id": 11,
+        "peso": 30,
+        "nombre": "Biceps curl con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/2uj77o420lyxjotszxs6w/barbell-curl-800.jpeg?rlkey=c1f57ddblsr1o84nk28hpjzi7&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja biceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/1aqi5gbjqa5qovhcgik32/Alternating-Dumbbell-Curl.mp4?rlkey=9xxxocqs23ccumqw6w3igw251&raw=1",
+        "id": 12,
+        "peso": 15,
+        "nombre": "Biceps curl con mancuernas",
+        "imagen": "https://www.dropbox.com/scl/fi/lxpolic75m28iiecxgps4/dumbbell-curl-800.jpeg?rlkey=lyfrqb0sj62vz97fk97phtou0&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja biceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/oabzuwelgmh01xhvo3lar/Hammer-Curl.mp4?rlkey=vj5vmqkbefvgc6k3em88g0gj1&raw=1",
+        "id": 13,
+        "peso": 15,
+        "nombre": "Biceps hammer curl con mancuernas",
+        "imagen": "https://www.dropbox.com/scl/fi/dk958v7vdr9ap7peblskz/hammer-curl-800.jpeg?rlkey=wk22hv85rizke4xjcm1hmjzbn&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja triceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/m6bddz13lb745540d1lqn/Cable-Triceps-Pushdown.mp4?rlkey=bkmf6m0fc3y5knhaqc4w9nmep&raw=1",
+        "id": 14,
+        "peso": 30,
+        "nombre": "Triceps extensiones con poleas",
+        "imagen": "https://www.dropbox.com/scl/fi/lrey1cwp8hpo0mbvk7kch/tricep-pushdown-800.jpeg?rlkey=kr52z790a5wnsor45lrgje6qf&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja los triceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/64qqlsx8v25aj4bd7guhh/Barbell-Skullcrusher.mp4?rlkey=pc6ukj6zizteas50n2p7x2ily&raw=1",
+        "id": 15,
+        "peso": 30,
+        "nombre": "Aplasta craneos con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/y2u0fwy0dlu5jpzyhzuo5/lying-tricep-extension-800.jpeg?rlkey=wskwo4cwb2lub38o6z3rysuo1&raw=1"
+    },
+    {
+        "repeticiones": 12,
+        "anotaciones": "Compuesto, trabaja triceps y pectorales, peso leve o corporal",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/le2vjnwkkinw3r7h1d1ei/Dip.mp4?rlkey=gddoq6o5u851vn3nvpo0hlw9e&raw=1",
+        "id": 16,
+        "peso": 30,
+        "nombre": "Fondos lastrados",
+        "imagen": "https://www.dropbox.com/scl/fi/lhgvfqe4eg9lfcybbdjtm/dips-800.jpeg?rlkey=ldz9wbcg9frcwux5fmx7o30ez&raw=1"
+    },
+    {
+        "repeticiones": 12,
+        "anotaciones": "Compuesto, trabaja hombros en especial la parte frontal, pectoral superior y triceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/0cd80mmzxcpnrtrd58t27/Standing-Barbell-Shoulder-Press.mp4?rlkey=dbkaqytfjhx4gopxbpncmffsn&raw=1",
+        "id": 17,
+        "peso": 40,
+        "nombre": "Press militar con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/iwse8ngpwgzoks0og2gwc/military-press-800.jpeg?rlkey=3v40s79bprhj1oa5va6eox62v&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislmiento, trabaja parte central del hombro",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/7gfn4ifvbma7l0qittdjn/Lateral-Raise.mp4?rlkey=0mv8dvq8hz4da8imxy096l4gp&raw=1",
+        "id": 18,
+        "peso": 12,
+        "nombre": "Elevacion lateral con mancuernas",
+        "imagen": "https://www.dropbox.com/scl/fi/8lai9h91qb7hpeaxmffw0/dumbbell-lateral-raise-800.jpeg?rlkey=ipzqlqemsc09t4wp7dflswt56&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja parte trasera de los hombros",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/juxukrrf95d1929u36v8j/Incline-Dumbbell-Lateral-Raise.mp4?rlkey=x99are524d9cupxcbxfel5r13&raw=1",
+        "id": 19,
+        "peso": 8,
+        "nombre": "Elevacion lateral inclinada",
+        "imagen": "https://www.dropbox.com/scl/fi/bmjj1cc4x66v4nrn2rprl/dumbbell-reverse-fly-400.jpeg?rlkey=xhhrb33bswgpsr7w6s6um1naq&raw=1"
+    },
+    {
+        "repeticiones": 10,
+        "anotaciones": "Compuesto, trabaja cuádriceps, isquiotibiales, glúteos y core",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/nummkivz3uf9c6d93yetw/High-Bar-Squat.mp4?rlkey=wpu01ndttplvo5ceu0xwvapzg&raw=1",
+        "id": 20,
+        "peso": 60,
+        "nombre": "Sentadilla con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/gqhm4u4ipd2xfhwt4snjq/squat-800.jpeg?rlkey=27nwb4yeufln8va34q6sq7bkz&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja los cuadriceps",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/x6utc7xim7ynb5wzd0w8y/Leg-Extension.mp4?rlkey=vk707b8q2a2xdyatu13fj2tqa&raw=1",
+        "id": 21,
+        "peso": 40,
+        "nombre": "Extension de piernas",
+        "imagen": "https://www.dropbox.com/scl/fi/7g2x1dh4lduu0aidk738z/leg-extension-800.jpeg?rlkey=csredslttuyh96fyud8jxkaoj&raw=1"
+    },
+    {
+        "repeticiones": 10,
+        "anotaciones": "Compuesto, trabaja isquiotibiales, gluteos y erectores",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/6ae0f2jf3g34afuwrjp13/Stiff-Legged-Deadlift.mp4?rlkey=as8f9ticqaaiv9nukk1bq4xn7&raw=1",
+        "id": 22,
+        "peso": 60,
+        "nombre": "Peso muerto rumano con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/5fytspn3fbsvky25sexaq/romanian-deadlift-800.jpeg?rlkey=irbe7wuoas44x8xb8l69s4eui&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja isquiotibiales",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/0mmf8hwbv9z0zdcd2lu4r/Seated-Leg-Curl.mp4?rlkey=a4badgup2j9lhuxtvt6oqsj9g&raw=1",
+        "id": 23,
+        "peso": 40,
+        "nombre": "Flexion de piernas",
+        "imagen": "https://www.dropbox.com/scl/fi/jygxulevc3u1dspvpmz46/seated-leg-curl-800.jpeg?rlkey=dpcuvs54qwbwycqi5dopd9gxq&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja gluteos",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/baka1ixx6jl2ldls4mk2m/Barbell-Hip-Thrust.mp4?rlkey=gghhsk2jk5n3iujo8fwxpj42a&raw=1",
+        "id": 24,
+        "peso": 40,
+        "nombre": "Empuje de cadera con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/yh8wu6ii468l8c7sc3fyl/hip-thrust-800.jpeg?rlkey=vq9q26f5rpxmwvka1js7jq96g&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Compuesto, trabaja cuádriceps, iquiotibiales y glúteos",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/cq8yrsmfmoxo8fi74d2zi/Barbell-Walking-Lunge.mp4?rlkey=a5zb5amjels6hwjwght9ubkxz&raw=1",
+        "id": 25,
+        "peso": 40,
+        "nombre": "Zancada con barra",
+        "imagen": "https://www.dropbox.com/scl/fi/fpkcl771l3yn2fzhyg1hd/barbell-lunge-800.jpeg?rlkey=m9tit7xyjx5y7vbcd4wmlxktv&raw=1"
+    },
+    {
+        "repeticiones": 16,
+        "anotaciones": "Aislamiento, trabaja los gemelos",
+        "sets": 3,
+        "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/ewlgg0twy8st1ke3xb939/Smith-Machine-Calves.mp4?rlkey=nucyy3ziipym3w1o61tndi60u&raw=1",
+        "id": 26,
+        "peso": 30,
+        "nombre": "Elevacion de gemelos",
+        "imagen": "https://www.dropbox.com/scl/fi/kkh22ed0m64wlo5h8l9ph/machine-calf-raise-800.jpeg?rlkey=hjx0nl3oe04ygzlrkryggzvpf&raw=1"
+    }
+]

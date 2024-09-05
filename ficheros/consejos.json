@@ -1,0 +1,74 @@
+[
+    {
+        "pregunta": "¿Cuántas veces a la semana debo entrenar?",
+        "id": 1,
+        "topico": "entrenamiento",
+        "respuesta": "Dependerá del los objetivos y capacidad de recuperación del individuo además del volumen e intensidad del entrenamiento, como regla general: Un mínimo de 3 veces a la semana y no más de 6 para tener al menos un día de descanso."
+    },
+    {
+        "pregunta": "¿Cuántos sets y repeticiones debo hacer?",
+        "id": 2,
+        "topico": "entrenamiento",
+        "respuesta": "De 2 a 4 sets, siendo 3 sets lo recomendado en la mayoría de casos, respecto a las repeticiones de 8 a 12 para ejercicios compuestos y de 12 a 20 para ejercicios de aislamiento."
+    },
+    {
+        "pregunta": "¿Qué debo saber sobre la técnica y ejecución de los ejercicios?",
+        "id": 3,
+        "topico": "entrenamiento",
+        "respuesta": "Se debe mantener una técnica lo más estricta posible, tanto para evitar lesiones como para conseguir un mejor estímulo en el músculo, la excéntrica/negativa del ejercicio genera casi tanto estímulo como concéntrica/positiva, por lo que es importante mantener la tensión en la excéntrica del ejercicio."
+    },
+    {
+        "pregunta": "¿Debería hacer ejercicios compuestos o de aislamiento?",
+        "id": 4,
+        "topico": "entrenamiento",
+        "respuesta": "Ambos, un ratio de 2:1 compuesto/aislamiento es recomendable, los ejercicios compuestos trabajan varios músculos a la vez permitiendo mayores cargas de peso y ahorrar tiempo en los entrenos, los ejercicios de aislamiento proveen un estímulo más focalizado en músculos que necesitan más trabajo."
+    },
+    {
+        "pregunta": "¿Es buena idea combinar el entrenamiento de hipertrofia con el de cardio?",
+        "id": 5,
+        "topico": "entrenamiento",
+        "respuesta": "Es recomendable hacer cardio al menos una vez por semana, para mantener el sistema cardiovascular en forma, aunque lo ideal es hacer este entrenamiento de cardio un día que no se haga el de hipertrofia para maximizar el beneficio de ambos."
+    },
+    {
+        "pregunta": "¿En qué consisten los super sets?",
+        "id": 6,
+        "topico": "entrenamiento",
+        "respuesta": "Consisten en realizar dos ejercicios consecutivos que trabajan músculos opuestos o antagonistas, por ejemplo, hacer un set de curl de bíceps seguida inmediatamente de un set de extensiones de tríceps y hacer los 3 sets de cada ejercicio alternándolos así, sus beneficios son el ahorro de tiempo y el aumento de intensidad en el entrenamiento."
+    },
+    {
+        "pregunta": "¿Qué son los mesociclos y en qué consisten las descargas que incorporan?",
+        "id": 7,
+        "topico": "entrenamiento",
+        "respuesta": "Consisten en mantener un plan de entrenamiento durante 6/8 semanas, aumentando las repeticiones o el peso cada semana, para al final del mismo tener una semana donde se reduce el volumen total o el peso usado para dar al cuerpo un descanso antes del siguiente mesociclo."
+    },
+    {
+        "pregunta": "¿Cuánta proteína necesito?",
+        "id": 8,
+        "topico": "nutricion y salud",
+        "respuesta": "Para un individuo que realice entrenamiento de hipertrofia se recomienda una cantidad de entre 1,5 y 2 g por kilogramo, más cerca de 1,5 si está en una fase de volumen y más cerca de 2 si está en fase de  definición o mantenimiento. "
+    },
+    {
+        "pregunta": "¿Cuántas calorías debo consumir para ganar musculo?",
+        "id": 9,
+        "topico": "nutricion y salud",
+        "respuesta": "Cualquier calculadora de calorias online podrá proporcionarte una cifra estimada en base a tu peso, edad, estatura y nivel de actividad, lo recomendable es hacer una estimación en base a las cifras que proporciona la calculadora y ajustar desde ahí, una vez tengas tus calorías de mantenimiento, puedes optar por un surplus de 200/300 calorías para un volumen limpio, el cual es el recomendable.  "
+    },
+    {
+        "pregunta": "¿Qué debo saber sobre el pre, intra y post entreno?",
+        "id": 10,
+        "topico": "nutricion y salud",
+        "respuesta": "Las cantidades de estos pueden variar según el individuo, pero una aproximación podría ser: Pre entreno en torno a 1,5 g de carbohidratos por kg y una cantidad entre 20 y 30 g de proteína  para la sesión de entrenamiento, post entreno 1 g de carbohidratos por kg y una cantidad entre 20 y 40 g de proteína para rellenar las reservas de glucógeno y propiciar la regeneración muscular, el intra debe ser ligero y basado en carbohidratos de rápida absorción, como algunas bebidas deportivas."
+    },
+    {
+        "pregunta": "¿Debería usar algun suplemento?",
+        "id": 11,
+        "topico": "nutricion y salud",
+        "respuesta": "La única suplementación cuya eficacia ha sido 100% testeada, es la de creatina y proteína, la primera aporta una mejor recuperación del entrenamiento, un mejor rendimiento en el mismo, un leve aumento de la masa muscular y otros beneficios a nivel cognitivo y de salud general y la segunda proporciona una fuente de proteína rápida y de calidad, especialmente beneficiosa en dietas veganas/vegetarianas, además de ser una opción fácil de proteínas para un post entreno al combinarla con leche y frutas en un batido, por ejemplo."
+    },
+    {
+        "pregunta": "¿Son importantes el tiempo de sueño y la calidad del mismo para el crecimiento muscular?",
+        "id": 12,
+        "topico": "nutricion y salud",
+        "respuesta": "El sueño y la calidad del mismo son cruciales para el desarrollo muscular, mientras dormimos, el cuerpo realiza la mayor parte de la regeneración muscular. Además, dormir adecuadamente es fundamental para la salud general. Un buen descanso favorece la recuperación de los tejidos, ayuda a mantener un sistema inmunológico fuerte y contribuye al equilibrio hormonal, lo cual es esencial para el crecimiento y la reparación de los músculos. "
+    }
+]

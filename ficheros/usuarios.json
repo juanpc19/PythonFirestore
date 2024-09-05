@@ -1,0 +1,106 @@
+[
+    {
+        "email": "mditaranto@iesnervion.es",
+        "userId": "0VPoPMKCgHbZFS0CBvraSdVwrsQ2",
+        "userName": "Matias Nahuel Ditaranto Riquelme",
+        "profilePictureUrl": "https://lh3.googleusercontent.com/a/ACg8ocIvgeVF-lcjSlRwzKOiqF-RXScOyhJZsA17FK436Lp52Wg8GA=s96-c",
+        "ejerciciosPersonalizados": [
+            {
+                "repeticiones": 1,
+                "anotaciones": "",
+                "sets": 1,
+                "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/dbeacfca6ewr3zoedbkdk/stick-bug.mp4?rlkey=l0p3u6inigguj4ajj9qulhk6t&raw=1",
+                "id": 27,
+                "peso": 1,
+                "nombre": "Juan Biceps",
+                "imagen": ""
+            },
+            {
+                "repeticiones": 1,
+                "anotaciones": "",
+                "sets": 1,
+                "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/dbeacfca6ewr3zoedbkdk/stick-bug.mp4?rlkey=l0p3u6inigguj4ajj9qulhk6t&raw=1",
+                "id": 28,
+                "peso": 1,
+                "nombre": "Juan piernas",
+                "imagen": ""
+            },
+            {
+                "repeticiones": 1,
+                "anotaciones": "",
+                "sets": 1,
+                "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/dbeacfca6ewr3zoedbkdk/stick-bug.mp4?rlkey=l0p3u6inigguj4ajj9qulhk6t&raw=1",
+                "id": 29,
+                "peso": 1,
+                "nombre": "Juan pelo",
+                "imagen": ""
+            }
+        ]
+    },
+    {
+        "email": "juan.perez@iesnervion.es",
+        "userId": "2cBI6BvufIZSeBZmMGg42ylHo332",
+        "userName": "Juan Perez Caballero",
+        "profilePictureUrl": "https://lh3.googleusercontent.com/a/ACg8ocI8ruOVMW1OaQWxeHz-KGPpH0X49AXFPnhxwimVLcBr=s96-c",
+        "ejerciciosPersonalizados": []
+    },
+    {
+        "email": "juanpesca19@gmail.com",
+        "userId": "Hg9pbXYbEgYKE5yICuKfnZaozYM2",
+        "userName": "Juan Pérez Caballero",
+        "profilePictureUrl": "https://lh3.googleusercontent.com/a/ACg8ocLHL91loDT6YaAdt1VBM_MAIJ_Uvg7fe1ia42kPvdCs=s96-c",
+        "ejerciciosPersonalizados": [
+            {
+                "repeticiones": 1,
+                "anotaciones": "hole mundo",
+                "sets": 1,
+                "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/dbeacfca6ewr3zoedbkdk/stick-bug.mp4?rlkey=l0p3u6inigguj4ajj9qulhk6t&raw=1",
+                "id": 30,
+                "peso": 130,
+                "nombre": "Nombre ejercicio 2",
+                "imagen": ""
+            },
+            {
+                "repeticiones": 1,
+                "anotaciones": "",
+                "sets": 1,
+                "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/dbeacfca6ewr3zoedbkdk/stick-bug.mp4?rlkey=l0p3u6inigguj4ajj9qulhk6t&raw=1",
+                "id": 28,
+                "peso": 1,
+                "nombre": "Bug",
+                "imagen": ""
+            },
+            {
+                "repeticiones": 1,
+                "anotaciones": "",
+                "sets": 1,
+                "urlVideoEjemplo": "https://www.dropbox.com/scl/fi/dbeacfca6ewr3zoedbkdk/stick-bug.mp4?rlkey=l0p3u6inigguj4ajj9qulhk6t&raw=1",
+                "id": 31,
+                "peso": 1,
+                "nombre": "Nombre ejercicio",
+                "imagen": ""
+            }
+        ]
+    },
+    {
+        "email": "fernando.galiana@iesnervion.es",
+        "userId": "gz3H0ad8UwO49RN3X8VRc5iAKg52",
+        "userName": "Fernando Galiana",
+        "profilePictureUrl": "https://lh3.googleusercontent.com/a/ACg8ocKFjg2X3z5K44PEGlQgBW8cw6vImlMWA3-cCFE8T_Zuk5gS4g=s96-c",
+        "ejerciciosPersonalizados": []
+    },
+    {
+        "email": "ppmrayo@gmail.com",
+        "userId": "p0AsbIpvFiPb61AzrekMTkO1jiD3",
+        "userName": "Pascual Palomo",
+        "profilePictureUrl": "https://lh3.googleusercontent.com/a/ACg8ocKugKreUFKVJ-Kh3IGLOxEGkrxYljMA6ghOF_6_QeeTrw3W1A=s96-c",
+        "ejerciciosPersonalizados": []
+    },
+    {
+        "email": "alejandropmorp@gmail.com",
+        "userId": "tCKKrdEYo6ZCTJGZKYVrzwvWuZ52",
+        "userName": "alejandro palomo moreno",
+        "profilePictureUrl": "https://lh3.googleusercontent.com/a/ACg8ocJisQ4HelOWHqgKHq8Xl-UOcwFMI9gdJ5wsLtyqrfyzKxzc4w=s96-c",
+        "ejerciciosPersonalizados": []
+    }
+]
