@@ -25,7 +25,9 @@ def menu():
     usuario=Usuario()
     rutina=Rutina()
     
-    while True:
+    opcion=None
+    
+    while opcion!="0":
         mostrar_menu()
         opcion = input()
 
@@ -47,7 +49,6 @@ def menu():
             rutina.post_rutinas()
         elif opcion == '0':
             print("Cerrando...")
-            break
         else:
             print("Opcion no válida, por favor intentelo de nuevo.")
             
